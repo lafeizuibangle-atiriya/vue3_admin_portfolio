@@ -1,5 +1,13 @@
 # Vue3 Admin 后台管理系统
 
+![Vue 3](https://img.shields.io/badge/Vue-3-42b883)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6)
+![Vite](https://img.shields.io/badge/Vite-5-646cff)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-2.9-409eff)
+![Pinia](https://img.shields.io/badge/Pinia-2.3-yellowgreen)
+![axios](https://img.shields.io/badge/axios-1.7-5a29e4)
+![ECharts](https://img.shields.io/badge/ECharts-5-aa344d)
+
 基于 Vue 3 + TypeScript 的后台管理系统模板，包含登录鉴权、路由守卫、Pinia 状态管理、axios 二次封装、表格增删改查和 ECharts 图表页。数据层内置本地 mock，克隆后无需后端即可运行。
 
 ## 技术栈
